@@ -1,0 +1,24 @@
+{
+  "name": "npm_lesson",
+  "version": "1.0.0",
+  "description": "test file package.json to learn npm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "lesson",
+    "nm",
+    "node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[pm",
+    "node"
+  ],
+  "author": "Lukasz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
