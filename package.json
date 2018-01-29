@@ -19,6 +19,7 @@
   "author": "Lukasz",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "eventemitter": "^0.3.3"
   }
 }
